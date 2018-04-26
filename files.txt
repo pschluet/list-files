@@ -1,0 +1,7 @@
+C:\Users\paul\Documents\ListFiles\files.txt
+C:\Users\paul\Documents\ListFiles\ListFiles.bat
+C:\Users\paul\Documents\ListFiles\example\file1.txt
+C:\Users\paul\Documents\ListFiles\example\file2.txt
+C:\Users\paul\Documents\ListFiles\example\subfolder\file3.txt
+C:\Users\paul\Documents\ListFiles\example\subfolder\file4.txt
+C:\Users\paul\Documents\ListFiles\example\subfolder\files.zip
