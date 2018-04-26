@@ -1,1 +1,0 @@
-dir /s/b/a-d > files.txt
